@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://images.alphacoders.com/821/thumb-1920-821092.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    color: white;
+}
+
+div{
+    color: white;
+}
+
+.header{
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.div{
+    font-family:fantasy;
+    font-size: 50px;
+}
